@@ -28,7 +28,7 @@ const line2 = document.querySelector('.line2');
 for (let i = 0; i < numberOfDivs; i++) {
  
     const div = document.createElement('div');
-    div.className = 'line-text';
+    div.className = 'line-text2';
 
 
     const p = document.createElement('p');
